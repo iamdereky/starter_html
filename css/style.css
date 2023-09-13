@@ -1,0 +1,57 @@
+body{
+    background-color: #ec9785;
+    color: black;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    font-family: Arial;
+    color: black;
+}
+
+h3{
+    font-size: 20px;
+    font-family: Arial;
+    color: black;
+}
+
+p{
+    line-height: 1.6;
+}
+
+img{
+    border: 5px solid #e10708;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+li{
+    display: inline-block;
+    margin-left: 50px;
+}
+
+nav{
+    border: 2px solid black;
+}
+
+nav a{
+    background-color: yellow;
+    padding: 5px;
+    margin: 20px;
+}
+
+#skip{
+    text-transform: uppercase;
+}
+
+.thumbnail{
+    display: block;
+    border: 5px solid black;
+}
